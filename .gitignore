@@ -1,0 +1,28 @@
+﻿# Archivos temporales de R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# LaTeX (sólo si usted compila localmente la presentación)
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.synctex.gz
+
+# Datos pesados o privados
+*.zip
+*.tar.gz
